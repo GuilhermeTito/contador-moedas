@@ -20,7 +20,7 @@ moedas = [
 ]
 
 def main():
-    video = cv.VideoCapture(1)
+    video = cv.VideoCapture(0)
 
     while True:
         imagemOriginal = video.read()[1]
