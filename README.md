@@ -3,6 +3,8 @@
 O programa usa o vídeo da WebCam para identificar moedas de BRL e
 somar seus valores.
 
+Funciona melhor se as moedas estiverem sobre um fundo de cor escura.
+
 Feito para a matéria de Inteligência Artificial do curso de Análise
 e Desenvolvimento de Sistemas da Fatec Mogi Mirim.
 
