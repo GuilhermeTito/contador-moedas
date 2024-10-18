@@ -1,0 +1,8 @@
+0 1 real
+1 50 centavos
+2 25 antiga
+3 25 nova
+4 10 antiga
+5 10 nova
+6 5 antiga
+7 5 nova
